@@ -17,6 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Infracost : Cost estimates for the IaC Resources in Azure](https://bhabalajinkya.medium.com/infracost-cost-estimates-for-the-iac-resources-in-azure-e840ab556d12?source=rss-bba14091c643------2)
+- [Terratag: Manage your cloud resource tags efficiently across terraform modules in Azure](https://bhabalajinkya.medium.com/terratag-manage-your-cloud-resource-tags-efficiently-across-terraform-modules-in-azure-9d187b263f53?source=rss-bba14091c643------2)
+- [Azure Bicep: Private Communication Between Azure Resources](https://bhabalajinkya.medium.com/azure-bicep-private-communication-between-azure-resources-f4a17c171cfb?source=rss-bba14091c643------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
